@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/booth_encoder.vhd,1792591374,vhdl,C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/booth_multiplier.vhd,,,booth_encoder,,,,,,,,
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/booth_multiplier.vhd,1792846330,vhdl,C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/tb.vhd,,,booth_multiplier_32,,,,,,,,
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/cla_4b.vhd,1792845316,vhdl,C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/cla_64bit.vhd,,,cla_4bit,,,,,,,,
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/cla_64bit.vhd,1792845469,vhdl,C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/booth_multiplier.vhd,,,cla_64bit,,,,,,,,
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/csa.vhd,1792847653,vhdl,C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/booth_multiplier.vhd,,,csa,,,,,,,,
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/full_adder.vhd,1792844981,vhdl,C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/csa.vhd,,,full_adder,,,,,,,,
+C:/Ali/Facultate/an3_sem1/SCS/MAC/MAC.srcs/sources_1/new/tb.vhd,1792846096,vhdl2008,,,,tb_booth_multiplier_32,,,,,,,,
